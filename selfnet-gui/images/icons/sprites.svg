@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg">
+  <symbol id="menu-entry" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 4.23 4.23">
+    <path d="M2.38 2.38v1.85h1.85V2.38zm.27.27h1.32v1.32H2.65zM2.38 0v1.85h1.85V0zm.27.26h1.32V1.6H2.65zM0 0v1.85h1.85V0zm.26.26H1.6V1.6H.26zM0 2.38v1.85h1.85V2.38zm.26.27H1.6v1.32H.26z"/>
+  </symbol>
+
+  <symbol id="more-dots" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 4.233 4.233">
+    <g transform="translate(0 -292.767)">
+      <circle r=".543" cy="294.883" cx="2.117" paint-order="markers stroke fill"/>
+      <circle r=".543" cy="296.446" cx="2.117" paint-order="markers stroke fill"/>
+      <circle r=".543" cy="293.32" cx="2.117" paint-order="markers stroke fill"/>
+    </g>
+  </symbol>
+
+  <symbol id="carat-up" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 4.233 4.233">
+    <path d="M2.117.946L.244 2.82l.468.468 1.405-1.404L3.52 3.287l.469-.468z" paint-order="markers stroke fill"/>
+  </symbol>
+
+  <symbol id="carat-down" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 4.233 4.233">
+    <path d="M2.117 3.287l1.872-1.873-.468-.468-1.404 1.405L.712.946l-.468.468z" paint-order="markers stroke fill"/>
+  </symbol>
+
+</svg>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="50px" height="50px" viewBox="0 0 50 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41.2 (35397) - http://www.bohemiancoding.com/sketch -->
+    <title>el-router</title>
+    <desc>Created with Sketch.</desc>
+    <circle class="frame" cx="25" cy="25" r="21" stroke="#55a4d3" stroke-width="2" fill="#FFFFFF"></circle>
+    <g transform="translate(8.000000, 8.000000)" fill="#55a4d3">
+        <path class="icon-drawing" d="M17.602,-0.0008 L12.729,7.1422 L13.793,8.0052 L16.666,3.3312 L16.666,14.9982 L18.334,14.9982 L18.334,3.3312 L21.407,8.0052 L22.497,7.1422 L17.602,-0.0008 Z M6.993,13.5822 L11.666,16.5242 L0,16.5242 L0,18.2312 L11.666,18.2312 L6.993,21.3792 L7.854,22.4942 L14.997,17.4822 L7.854,12.4932 L6.993,13.5822 Z M20.001,17.4852 L27.17,22.4952 L28.035,21.3792 L23.333,18.3612 L35,18.3612 L35,16.6862 L23.333,16.6862 L28.035,13.5862 L27.17,12.4992 L20.001,17.4852 Z M16.666,19.9982 L16.666,31.6642 L13.583,26.9622 L12.501,27.8272 L17.462,34.9962 L22.446,27.8272 L21.336,26.9622 L18.334,31.6642 L18.334,19.9982 L16.666,19.9982 Z"></path>
+    </g>
+</svg>

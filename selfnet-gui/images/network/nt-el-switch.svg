@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="50px" height="50px" viewBox="0 0 50 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41.2 (35397) - http://www.bohemiancoding.com/sketch -->
+    <title>nt-elements/ el-switch</title>
+    <desc>Created with Sketch.</desc>
+    <circle class="frame" cx="25" cy="25" r="21" stroke="#818181" stroke-width="2" fill="#FFFFFF" ></circle>
+    <g transform="translate(14.000000, 15.000000)">
+        <path class="icon-drawing" fill="#818181" d="M14.993,1.089 L19.666,4.031 L3.55271368e-15,4.031 L3.55271368e-15,5.738 L19.666,5.738 L14.993,8.886 L15.854,10.001 L22.997,4.989 L15.854,0 L14.993,1.089 Z M3.55271368e-15,15.986 L7.169,20.996 L8.034,19.88 L3.332,16.862 L22.999,16.862 L22.999,15.187 L3.332,15.187 L8.034,12.087 L7.169,11 L3.55271368e-15,15.986 Z"></path>
+    </g>
+</svg>

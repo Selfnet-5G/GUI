@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   id="svg12"
+   version="1.1"
+   viewBox="0 0 50 50"
+   height="50px"
+   width="50px">
+  <metadata
+     id="metadata18">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>el-router</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs16" />
+  <!-- Generator: Sketch 41.2 (35397) - http://www.bohemiancoding.com/sketch -->
+  <title
+     id="title2">el-router</title>
+  <desc
+     id="desc4">Created with Sketch.</desc>
+  <g
+     style="fill:#333a4d;fill-opacity:1"
+     id="g10"
+     transform="matrix(0.97882949,0,0,0.97882949,8.3598987,8.3598986)">
+    <path
+       style="stroke-width:1.42976916;fill:#333a4d;fill-opacity:1"
+       id="path8"
+       d="m 17.145836,-8.0188148 -6.967264,10.212841 1.521274,1.2338908 4.107726,-6.6827413 V 13.426292 h 2.384855 V -3.2548243 l 4.39368,6.6827413 1.558449,-1.2338908 z M 1.9774165,11.401739 8.6587277,15.608119 H -8.0209591 v 2.440617 H 8.6587277 L 1.9774165,22.549649 3.2084477,24.143841 13.421288,16.977838 3.2084477,9.8447209 Z m 18.5984355,5.580389 10.250015,7.163143 1.23675,-1.595622 -6.722775,-4.315044 H 42.020959 V 15.839742 H 25.339842 l 6.722775,-4.432284 -1.23675,-1.5541591 z m -4.76828,3.59301 V 37.254824 L 11.399594,30.53205 9.8525846,31.7688 16.945668,42.018815 24.071637,31.7688 22.484594,30.53205 18.192427,37.254824 V 20.575138 Z"
+       class="icon-drawing" />
+  </g>
+</svg>
